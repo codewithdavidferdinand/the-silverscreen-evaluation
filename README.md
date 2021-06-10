@@ -1,4 +1,4 @@
-# Content Based Movie Recommendation System with sentiment analysis using AJAX ,flask  and ML 
+# The Silver screen evaluation and content recommendation application with sentiment analysis using AJAX ,flask  and ML 
 
 ![Python](https://img.shields.io/badge/Python-3.8-blueviolet)
 ![Framework](https://img.shields.io/badge/Framework-Flask-red)
@@ -13,7 +13,7 @@ The details of the movies(title, genre, runtime, rating, poster, etc) are fetche
 
 # Note
 
-## The Movie Recommendation system
+## The Silver screen evaluation & content recommendation application
 
 I've developed a similar application called "The Movie  Recommendation system" which supports all language movies. But the only thing that differs from this application is that I've used the TMDB's recommendation engine in "The Movie Cinema". The recommendation part developed by me in this application doesn't support for multi-language movies as it consumes 200% of RAM (even after deploying it to Heroku) for generating Count Vectorizer matrix for all the 700,000+ movies in the TMDB. 
 
